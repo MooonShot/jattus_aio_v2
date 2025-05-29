@@ -93,12 +93,6 @@ node jattus_main.js
 
 ---
 
-## 📸 Webhook Sample
-
-![Webhook Preview](https://i.imgur.com/hF6W9fL.png)
-
----
-
 ## 👨‍💻 Author
 
 Built with ❤️ by [Aayush (MooonShot)](https://github.com/MooonShot)
